@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ling tosite sigure"},
+                  "SongTitle": {"S": "Abnormalize"},
+                  "AlbumTitle": {"S": "i'mperfect"},
+                  "SongYear": {"S": "2013"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ling tosite sigure"},
+                  "SongTitle": {"S": "Enigmatic Feeling"},
+                  "AlbumTitle": {"S": "Enigmatic Feeling"},
+                  "SongYear": {"S": "2014"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ling tosite sigure"},
+                  "SongTitle": {"S": "first death"},
+                  "AlbumTitle": {"S": "first death"},
+                  "SongYear": {"S": "2022"}
                 }
             }
         }
